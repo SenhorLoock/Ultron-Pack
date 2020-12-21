@@ -1016,7 +1016,7 @@ cd
 cd Ultron-Pack
 ./Ultron
 fi
-f [ "$sessao6" = "00" ]
+if [ "$sessao6" = "00" ]
 then
 clear
 printf '\033[1;36m'
