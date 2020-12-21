@@ -21,7 +21,7 @@ echo '                                 ##########################'
 echo '                                 !!!!!!!!!!!!!!!!!!!!!!!!!!' | lolcat
 echo '                                 !  !  !  !  !  !  !  !  ! ' | lolcat
 printf '\033[1;36m'
-figlet -f slant "        ULTON Pack        " 
+figlet -f slant "        ULTRON Pack        " 
 printf '\033[m'
 #criaçao da raiz 
 printf '\033[1;32m[\033[1;34m01\033[1;32m]\033[1;37mPhisher\n\033[1;32m[\033[1;34m02\033[1;32m]\033[1;37mBrute Force\n\033[1;32m[\033[1;34m03\033[1;32m]\033[1;37mConsultas\n\033[1;32m[\033[1;34m04\033[1;32m]\033[1;37mGeradores De MalWare\n\033[1;32m[\033[1;34m05\033[1;32m]\033[1;37mTemas\n\033[1;32[\033[7;34mBONUS\033[m\n\033[1;32m[\033[7;31m00\033[m\033[1;32m]\033[1;37mExit\033[7;36\n@>\033[m'
@@ -1034,8 +1034,4 @@ echo '                                 ##########################'
 echo '                                 !!!!!!!!!!!!!!!!!!!!!!!!!!' | lolcat
 echo '                                 !  !  !  !  !  !  !  !  ! ' | lolcat
 ./Ultron
-
-
-
 fi
-
