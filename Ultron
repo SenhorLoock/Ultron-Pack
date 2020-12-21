@@ -869,7 +869,7 @@ echo '                                 !!!!!!!!!!!!!!!!!!!!!!!!!!' | lolcat
 echo '                                 !  !  !  !  !  !  !  !  ! ' | lolcat
 figlet -f slant "Saindo" | lolcat
 fi
-fi
+
 if [ "$main" = "BONUS" ]
  then
 clear
